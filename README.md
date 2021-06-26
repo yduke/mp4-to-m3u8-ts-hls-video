@@ -31,7 +31,7 @@ Windows 7:
 
 
 ## How to use
-1. Your .mp4 video file have to be h264 or h265, other wise your have to re-encode. 
+1. Your .mp4 video file have to be h264 or h265, other wise you will have to re-encode. 
 2. Download and place the script to the same folder as your original .mp4 video file.
 3. Drag your .mp4 file directly to the batch script.
 4. The CMD window will show you the progress, wait until it's done.
